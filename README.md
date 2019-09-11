@@ -35,5 +35,4 @@ The sharing principle of these references here is for research. If any authors d
 * [Deep Reinforcement Learning in Large Discrete Action Spaces](https://arxiv.org/pdf/1512.07679.pdf) by Gabriel Dulac-Arnold, Richard Evans, Hado van Hasselt, Peter Sunehag, Timothy Lillicrap, Jonathan Hunt,
 Timothy Mann, TheophaneWeber, Thomas Degris, Ben Coppin. arXiv, 2016.
 * [Personalized Ad Recommendation Systems for Life-Time Value Optimization with Guarantees](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Personalized+Ad+Recommendation+Systems+for+Life-Time+Value+Optimization+with+Guarantees&btnG=) by Georgios Theocharous, Philip S. Thomas, Mohammad Ghavamzadeh. IJCAI, 2015.
-
-
+* [Unbiased Offline Evaluation of Contextual-bandit-based News Article Recommendation Algorithms](http://www.xuanhui.me/pub/Li11Unbiased.pdf) by Lihong Li, Wei Chu, John Langford, Xuanhui Wang. WSDM, 2011.
