@@ -9,13 +9,15 @@ The sharing principle of these references here is for research. If any authors d
 
 
 ## Research Papers
+* [MarlRank: Multi-agent Reinforced Learning to Rank](https://128.84.21.199/pdf/1909.06859.pdf) by Shihao Zou, Zhonghua Li, Mohammad Akbari, Jun Wang, Peng Zhang. CIKM, 2019.
 * [Reducing Exploration of Dying Arms in Mortal Bandits](https://arxiv.org/pdf/1907.02571.pdf) by Stefano Tracà, Cynthia Rudin, Weiyu Yan. arXiv, 2019.
 * [Bandit Learning for Diversified Interactive Recommendation](https://arxiv.org/pdf/1907.01647.pdf) by Yong Liu, Yingtai Xiao, Qiong Wu, Chunyan Miao, Juyong Zhang. arXiv, 2019.
 * [Explainable Knowledge Graph-based Recommendation via Deep Reinforcement Learning](https://arxiv.org/pdf/1906.09506.pdf) by Weiping Song, Zhijian Duan, Ziqing Yang, Hao Zhu, Ming Zhang, Jian Tang. arXiv, 2019.
 * [Deep Reinforcement Learning for Online Advertising in Recommender Systems](https://arxiv.org/pdf/1909.03602.pdf) by Xiangyu Zhao, Changsheng Gu, Haoshenglun Zhang, Xiaobing Liu, Xiwang Yang, Jiliang Tang. arXiv, 2019.
 * [Value-aware Recommendation based on Reinforced Profit Maximization in E-commerce Systems](https://arxiv.org/pdf/1902.00851.pdf) by Changhua Pei, Xinru Yang, Qing Cui, Xiao Lin, Fei Sun, Peng Jiang, Wenwu Ou, Yongfeng Zhang. WWW, 2019.
-* [Variance Reduction in Gradient Exploration for Online Learning to Rank](https://arxiv.org/pdf/1906.03766.pdf) by Huazheng Wang, Sonwoo Kim, Eric McCord-Snook, Qingyun Wu, Hongning Wang. SIGIR, 2019.
+* [Dual Graph Aention Networks for Deep Latent Representation of Multifaceted Social Eects in Recommender Systems](https://arxiv.org/pdf/1903.10433.pdf) by Qitian Wu, Hengrui Zhang, Xiaofeng Gao, Peng He, Paul Weng, Han Gao, Guihai Chen. WWW, 2019.
 * [Reinforcement Knowledge Graph Reasoning for Explainable Recommendation](https://arxiv.org/pdf/1906.05237.pdf) by Yikun Xian, Zuohui Fu, S. Muthukrishnan, Gerard de Melo, Yongfeng Zhang. SIGIR, 2019.
+* [Variance Reduction in Gradient Exploration for Online Learning to Rank](https://arxiv.org/pdf/1906.03766.pdf) by Huazheng Wang, Sonwoo Kim, Eric McCord-Snook, Qingyun Wu, Hongning Wang. SIGIR, 2019.
 * [Mention Recommendation in Twitter with Cooperative Multi-Agent Reinforcement Learning](http://delivery.acm.org/10.1145/3340000/3331237/p535-gui.pdf?ip=45.79.4.131&id=3331237&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1565569281_6e455179dbc78f8417f1decd94192946) by Tao Gui, Peng Liu, Qi Zhang, Liang Zhu, Minlong Peng, Yunhua Zhou, Xuanjing Huang. SIGIR, 2019.
 * [SlateQ: A Tractable Decomposition for Reinforcement Learning with Recommendation Sets](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/9f91de1fa0ac351ecb12e4062a37afb896aa1463.pdf) by Eugene Ie, Vihan Jain, Jing Wang, Sanmit Narvekar, Ritesh Agarwal, Rui Wu, Heng-Tze Cheng, Tushar Chandra, Craig Boutilier. IJCAI, 2019.
 * [Generative Adversarial User Model for Reinforcement Learning Based Recommendation System](http://proceedings.mlr.press/v97/chen19f/chen19f.pdf) by Xinshi Chen, Shuang Li, Hui Li, Shaohua Jiang, Yuan Qi, Le Song. ICML, 2019.
