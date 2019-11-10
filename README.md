@@ -10,6 +10,7 @@ The sharing principle of these references here is for research. If any authors d
 
 ## Research Papers
 * [Deep Reinforcement Learning for Whole-Chain Recommendations](https://arxiv.org/pdf/1902.03987.pdf) by Xiangyu Zhao, Long Xia, Dawei Yin, Jiliang Tang. WSDM, 2020.
+* [MBCAL: A Simple and Efficient Reinforcement Learning Method for Recommendation Systems](https://arxiv.org/pdf/1911.02248.pdf) by Fan Wang, Xiaomin Fang, Lihang Liu, Hao Tian, Zhiming Peng. arXiv, 2019.
 * [MarlRank: Multi-agent Reinforced Learning to Rank](https://128.84.21.199/pdf/1909.06859.pdf) by Shihao Zou, Zhonghua Li, Mohammad Akbari, Jun Wang, Peng Zhang. CIKM, 2019.
 * [Deep Learning Recommendation Model for Personalization and Recommendation Systems](https://arxiv.org/pdf/1906.00091.pdf) by Maxim Naumov, Dheevatsa Mudigere, Hao Jun Michael Shi, Jianyu Huang, Narayanan Sundaraman, Jongsoo Park, Xiaodong Wang, Udit Gupta, Carole-Jean Wu, Alisson G. Azzolini, Dmytro Dzhulgakov, Andrey Mallevich, Ilia Cherniavskii, Yinghai Lu, Raghuraman Krishnamoorthi, Ansha Yu, Volodymyr Kondratenko, Stephanie Pereira, Xianjie Chen, Wenlin Chen, Vijay Rao, Bill Jia, Liang Xiong and Misha Smelyanskiy. arXiv, 2019.
 * [Reducing Exploration of Dying Arms in Mortal Bandits](https://arxiv.org/pdf/1907.02571.pdf) by Stefano Tracà, Cynthia Rudin, Weiyu Yan. arXiv, 2019.
