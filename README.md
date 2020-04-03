@@ -5,10 +5,13 @@ This is a collection of research and review papers of reinforcement learning (RL
 The sharing principle of these references here is for research. If any authors do not want their paper to be listed here, please feel free to contact [Jiarui Jin](http://Jinjiarui.github.io/) (Email: jinjiarui97 [AT] gmail.com).
 
 ## Review Papers
+
 * [Reinforcement Learning for Online Information Seeking](https://arxiv.org/pdf/1812.07127.pdf) by Xiangyu Zhao, Long Xia, Jiliang Tang, Dawei Yin. arXiv, 2019.
 
-
 ## Research Papers
+
+* [Validation Set Evaluation can be Wrong: An Evaluator-Generator Approach for Maximizing Online Performance of Ranking in E-commerce](https://arxiv.org/pdf/2003.11941.pdf) by Guangda Huzhang, Zhen-Jia Pang, Yongqing Gao, Wen-Ji Zhou, Qing Da, An-Xiang Zeng, Yang Yu. arXiv, 2020.
+* [Hierarchical Adaptive Contextual Bandits for Resource Constraint based Recommendation](https://arxiv.org/pdf/2004.01136.pdf) by Mengyue Yang, Qingyang Li, Zhiwei Qin, Jieping Ye. WWW, 2020.
 * [Deep Reinforcement Learning for Whole-Chain Recommendations](https://arxiv.org/pdf/1902.03987.pdf) by Xiangyu Zhao, Long Xia, Dawei Yin, Jiliang Tang. WSDM, 2020.
 * [MBCAL: A Simple and Efficient Reinforcement Learning Method for Recommendation Systems](https://arxiv.org/pdf/1911.02248.pdf) by Fan Wang, Xiaomin Fang, Lihang Liu, Hao Tian, Zhiming Peng. arXiv, 2019.
 * [MarlRank: Multi-agent Reinforced Learning to Rank](https://128.84.21.199/pdf/1909.06859.pdf) by Shihao Zou, Zhonghua Li, Mohammad Akbari, Jun Wang, Peng Zhang. CIKM, 2019.
